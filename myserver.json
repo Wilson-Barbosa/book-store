@@ -6,13 +6,6 @@
       "lastName": "freire",
       "email": "rafael@gmail.com",
       "password": "rafael123"
-    },
-    {
-      "id": 2,
-      "firstName": "wilson",
-      "lastName": "barbosa",
-      "email": "wilson@gmail.com",
-      "password": "wilson123"
     }
   ]
 }
